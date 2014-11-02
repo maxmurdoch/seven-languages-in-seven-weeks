@@ -1,5 +1,5 @@
-# print 'Hello, world.'
-puts 'Hello, world.'
+# print 'Hello, World.'
+puts 'Hello, World.'
 
 # find the index of the word 'Ruby' in the string 'Hello, Ruby'
 'Hello, Ruby'.index('Ruby')
@@ -19,9 +19,9 @@ while i < 11
 end
 
 # run a ruby program from a file
-$ ruby ruby_day_1.rb
+# $ ruby ruby_day_1.rb
 
-# bonus: write a program that picks a random number
+# bonus: let a player pick a random number and tell them if they are too high or too low
 rand_num = rand(10)
 negative_phrases = ['Hell no!',
                     'Nope.',
